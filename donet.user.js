@@ -2,10 +2,10 @@
 // @name        Doshisha's Network Authentication AutoComplete
 // @author      Jeffrey Sadeli
 // @namespace   https://github.com/jsadeli/Doshisha-NetAuth-Script
-// @description Enabled Auto fills for Doshisha's network authentication form
+// @description Enables browser autofill for Doshisha's Network Authentication form.
 // @include     https://do-net.doshisha.ac.jp:10443/
 // @include     https://do-netmac.doshisha.ac.jp:10443/auth.html
-// @version     2.0-20130113
+// @version     2.0
 // ==/UserScript==
 
 function initialize() {
