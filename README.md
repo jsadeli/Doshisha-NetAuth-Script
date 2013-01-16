@@ -16,9 +16,8 @@ Make sure that you have userscripts enabled in your browser.
     - For **IE**, install [Trixie](http://www.bhelpuri.net/Trixie/).
     - For **Opera**, follow instructions located on Opera's [User JavaScript](http://www.opera.com/docs/userjs/) site.
     - For **Safari**, install [NinjaKit](http://d.hatena.ne.jp/os0x/20100612/1276330696).
-    - For **Chrome**:
-        - Download the [`donet.user.js`](https://github.com/jsadeli/Doshisha-NetAuth-Script/raw/master/donet.user.js) userscript.
-        - Open **chrome://extensions**.
-        - Drag-and-drop the `donet.user.js` file on the **chrome://extensions** page.
-        - That's all it takes, skip `STEP 2`.
 2. Install this "Doshisha NetAuth" userscript by clicking here: [donet.user.js](https://github.com/jsadeli/Doshisha-NetAuth-Script/raw/master/donet.user.js).
+    - For **Chrome**, do this instead:
+        - Download the [`donet.user.js`](https://github.com/jsadeli/Doshisha-NetAuth-Script/raw/master/donet.user.js) userscript.
+        - Open **chrome://extensions** (or click on: Menu/Window/Extensions).
+        - Drag-and-drop the `donet.user.js` file on the **chrome://extensions** page.
